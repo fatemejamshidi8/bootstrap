@@ -1,0 +1,14 @@
+{
+    "liveSassCompile.settings.autoprefix": [
+    
+    ],
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        }
+    ]
+}
